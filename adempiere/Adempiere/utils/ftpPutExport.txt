@@ -1,0 +1,7 @@
+open localhost
+anonymous
+user@host.com
+bin
+put ExpDat.jar my_ExpDat.jar
+ls my_ExpDat.jar
+quit

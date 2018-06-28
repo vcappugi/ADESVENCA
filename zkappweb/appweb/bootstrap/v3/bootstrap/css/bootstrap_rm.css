@@ -1,0 +1,39 @@
+ .paddingtop{
+ 	padding-top:9px;
+ }
+ .paddingbottom{
+ 	padding-bottom:9px;
+ }
+ .div-default{
+ 	color:#333;
+ 	background-color:#e6e6e6;
+ 	border-color:#adadad;
+ 	line-height:1.3333333;
+ 	border-radius:6px;
+ 	padding-top:4px;
+
+ }
+ .margin-0px{
+ 	margin-right:1px;
+ 	margin-left:1px; 
+ }
+ .thumbnail2{
+ 	display:block;
+ 	padding:4px;
+ 	margin-top:20px;
+ 	margin-bottom:20px;
+ 	line-height:1.42857143;
+ 	background-color:#fff;
+ 	border:1px solid #ddd;
+ 	border-radius:4px;
+ }
+
+.top-buffer { 
+	margin-top:50px; 
+}
+
+.font-bold{
+	font-weight: bold;
+}
+
+

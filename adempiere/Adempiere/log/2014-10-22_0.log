@@ -1,0 +1,9 @@
+*** 2014-10-22 15:52:00.783 Adempiere Log (CLogFile) ***
+15:52:00.782 Adempiere.startup: ADempiere(r) Release 3.7.0.1LTS (VE)_2013-11-15 -ADEMPIERE ERP & CRM- (c) 1999-2014 ver:21102014 (r); Implementation: ${ADEMPIERE_VERSION} 20141022-1550 - ${ADEMPIERE_VENDOR}
+15:52:00.806 Ini.loadProperties: /home/vcappugi/workspace/Adempiere_370/install/build/Adempiere/Adempiere.properties #29
+15:52:03.379   CLogMgt.setLevel: FINE
+15:52:03.380 SignDatabaseBuild.main: Sign Database Build
+15:52:03.380 SignDatabaseBuild.main: -------------------
+15:52:03.386 SignDatabaseBuild.main: UPDATE AD_System SET LastBuildInfo = ?
+
+*** 2014-10-22 15:52:03.39 Adempiere Log (CLogFile) ***

@@ -1,0 +1,7 @@
+open localhost
+anonymous
+user@host.com
+bin
+ls Adempiere.jar
+get Adempiere.jar
+quit
